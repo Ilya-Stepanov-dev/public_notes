@@ -1,3 +1,7 @@
+- metadata
+  collapsed:: true
+	- type:: note
+	  area:: [[IT]]
 - # Roadmap
 	- ### Интeренет
 	  background-color:: yellow
@@ -172,6 +176,18 @@
 			  background-color:: green
 			- Инкапсуляция
 			  background-color:: green
+	- ### Фреймворки, инструменты, библиотеки
+	  background-color:: yellow
+		- FastApi
+		  background-color:: green
+		- Pydantic
+		  background-color:: green
+		- SQLAchemy
+		  background-color:: green
+		- Docker
+		  background-color:: green
+		- ...
+		  background-color:: green
 	- ### Брокеры сообщений
 	  background-color:: yellow
 		- Kafka
