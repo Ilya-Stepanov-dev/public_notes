@@ -1,7 +1,3 @@
-- metadata
-  collapsed:: true
-	- type:: note
-	  area:: [[IT]]
 - # Roadmap
 	- ### Интeренет
 	  background-color:: yellow
